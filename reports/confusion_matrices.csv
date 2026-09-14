@@ -1,0 +1,769 @@
+model,phase,actual,predicted,count
+Logistic Regression,none,angry,angry,24
+Logistic Regression,none,angry,calm,1
+Logistic Regression,none,angry,disgust,3
+Logistic Regression,none,angry,fearful,1
+Logistic Regression,none,angry,happy,1
+Logistic Regression,none,angry,neutral,0
+Logistic Regression,none,angry,sad,1
+Logistic Regression,none,angry,surprised,1
+Logistic Regression,none,calm,angry,1
+Logistic Regression,none,calm,calm,22
+Logistic Regression,none,calm,disgust,0
+Logistic Regression,none,calm,fearful,6
+Logistic Regression,none,calm,happy,0
+Logistic Regression,none,calm,neutral,2
+Logistic Regression,none,calm,sad,1
+Logistic Regression,none,calm,surprised,0
+Logistic Regression,none,disgust,angry,5
+Logistic Regression,none,disgust,calm,1
+Logistic Regression,none,disgust,disgust,22
+Logistic Regression,none,disgust,fearful,0
+Logistic Regression,none,disgust,happy,2
+Logistic Regression,none,disgust,neutral,0
+Logistic Regression,none,disgust,sad,1
+Logistic Regression,none,disgust,surprised,1
+Logistic Regression,none,fearful,angry,2
+Logistic Regression,none,fearful,calm,3
+Logistic Regression,none,fearful,disgust,2
+Logistic Regression,none,fearful,fearful,15
+Logistic Regression,none,fearful,happy,5
+Logistic Regression,none,fearful,neutral,0
+Logistic Regression,none,fearful,sad,5
+Logistic Regression,none,fearful,surprised,0
+Logistic Regression,none,happy,angry,3
+Logistic Regression,none,happy,calm,0
+Logistic Regression,none,happy,disgust,5
+Logistic Regression,none,happy,fearful,8
+Logistic Regression,none,happy,happy,6
+Logistic Regression,none,happy,neutral,3
+Logistic Regression,none,happy,sad,5
+Logistic Regression,none,happy,surprised,2
+Logistic Regression,none,neutral,angry,2
+Logistic Regression,none,neutral,calm,4
+Logistic Regression,none,neutral,disgust,0
+Logistic Regression,none,neutral,fearful,0
+Logistic Regression,none,neutral,happy,0
+Logistic Regression,none,neutral,neutral,6
+Logistic Regression,none,neutral,sad,4
+Logistic Regression,none,neutral,surprised,0
+Logistic Regression,none,sad,angry,4
+Logistic Regression,none,sad,calm,8
+Logistic Regression,none,sad,disgust,0
+Logistic Regression,none,sad,fearful,5
+Logistic Regression,none,sad,happy,3
+Logistic Regression,none,sad,neutral,1
+Logistic Regression,none,sad,sad,11
+Logistic Regression,none,sad,surprised,0
+Logistic Regression,none,surprised,angry,0
+Logistic Regression,none,surprised,calm,1
+Logistic Regression,none,surprised,disgust,3
+Logistic Regression,none,surprised,fearful,12
+Logistic Regression,none,surprised,happy,1
+Logistic Regression,none,surprised,neutral,2
+Logistic Regression,none,surprised,sad,4
+Logistic Regression,none,surprised,surprised,9
+Logistic Regression,sigmoid,angry,angry,17
+Logistic Regression,sigmoid,angry,calm,4
+Logistic Regression,sigmoid,angry,disgust,3
+Logistic Regression,sigmoid,angry,fearful,7
+Logistic Regression,sigmoid,angry,happy,0
+Logistic Regression,sigmoid,angry,neutral,0
+Logistic Regression,sigmoid,angry,sad,0
+Logistic Regression,sigmoid,angry,surprised,1
+Logistic Regression,sigmoid,calm,angry,0
+Logistic Regression,sigmoid,calm,calm,25
+Logistic Regression,sigmoid,calm,disgust,0
+Logistic Regression,sigmoid,calm,fearful,6
+Logistic Regression,sigmoid,calm,happy,0
+Logistic Regression,sigmoid,calm,neutral,1
+Logistic Regression,sigmoid,calm,sad,0
+Logistic Regression,sigmoid,calm,surprised,0
+Logistic Regression,sigmoid,disgust,angry,2
+Logistic Regression,sigmoid,disgust,calm,1
+Logistic Regression,sigmoid,disgust,disgust,24
+Logistic Regression,sigmoid,disgust,fearful,2
+Logistic Regression,sigmoid,disgust,happy,0
+Logistic Regression,sigmoid,disgust,neutral,0
+Logistic Regression,sigmoid,disgust,sad,1
+Logistic Regression,sigmoid,disgust,surprised,2
+Logistic Regression,sigmoid,fearful,angry,0
+Logistic Regression,sigmoid,fearful,calm,4
+Logistic Regression,sigmoid,fearful,disgust,3
+Logistic Regression,sigmoid,fearful,fearful,17
+Logistic Regression,sigmoid,fearful,happy,2
+Logistic Regression,sigmoid,fearful,neutral,0
+Logistic Regression,sigmoid,fearful,sad,5
+Logistic Regression,sigmoid,fearful,surprised,1
+Logistic Regression,sigmoid,happy,angry,1
+Logistic Regression,sigmoid,happy,calm,4
+Logistic Regression,sigmoid,happy,disgust,4
+Logistic Regression,sigmoid,happy,fearful,13
+Logistic Regression,sigmoid,happy,happy,1
+Logistic Regression,sigmoid,happy,neutral,0
+Logistic Regression,sigmoid,happy,sad,3
+Logistic Regression,sigmoid,happy,surprised,6
+Logistic Regression,sigmoid,neutral,angry,2
+Logistic Regression,sigmoid,neutral,calm,10
+Logistic Regression,sigmoid,neutral,disgust,0
+Logistic Regression,sigmoid,neutral,fearful,1
+Logistic Regression,sigmoid,neutral,happy,0
+Logistic Regression,sigmoid,neutral,neutral,3
+Logistic Regression,sigmoid,neutral,sad,0
+Logistic Regression,sigmoid,neutral,surprised,0
+Logistic Regression,sigmoid,sad,angry,1
+Logistic Regression,sigmoid,sad,calm,13
+Logistic Regression,sigmoid,sad,disgust,0
+Logistic Regression,sigmoid,sad,fearful,8
+Logistic Regression,sigmoid,sad,happy,0
+Logistic Regression,sigmoid,sad,neutral,0
+Logistic Regression,sigmoid,sad,sad,10
+Logistic Regression,sigmoid,sad,surprised,0
+Logistic Regression,sigmoid,surprised,angry,0
+Logistic Regression,sigmoid,surprised,calm,3
+Logistic Regression,sigmoid,surprised,disgust,3
+Logistic Regression,sigmoid,surprised,fearful,13
+Logistic Regression,sigmoid,surprised,happy,0
+Logistic Regression,sigmoid,surprised,neutral,2
+Logistic Regression,sigmoid,surprised,sad,2
+Logistic Regression,sigmoid,surprised,surprised,9
+Logistic Regression,isotonic,angry,angry,14
+Logistic Regression,isotonic,angry,calm,4
+Logistic Regression,isotonic,angry,disgust,2
+Logistic Regression,isotonic,angry,fearful,7
+Logistic Regression,isotonic,angry,happy,4
+Logistic Regression,isotonic,angry,neutral,0
+Logistic Regression,isotonic,angry,sad,0
+Logistic Regression,isotonic,angry,surprised,1
+Logistic Regression,isotonic,calm,angry,0
+Logistic Regression,isotonic,calm,calm,25
+Logistic Regression,isotonic,calm,disgust,0
+Logistic Regression,isotonic,calm,fearful,5
+Logistic Regression,isotonic,calm,happy,0
+Logistic Regression,isotonic,calm,neutral,0
+Logistic Regression,isotonic,calm,sad,2
+Logistic Regression,isotonic,calm,surprised,0
+Logistic Regression,isotonic,disgust,angry,2
+Logistic Regression,isotonic,disgust,calm,2
+Logistic Regression,isotonic,disgust,disgust,23
+Logistic Regression,isotonic,disgust,fearful,2
+Logistic Regression,isotonic,disgust,happy,1
+Logistic Regression,isotonic,disgust,neutral,0
+Logistic Regression,isotonic,disgust,sad,1
+Logistic Regression,isotonic,disgust,surprised,1
+Logistic Regression,isotonic,fearful,angry,0
+Logistic Regression,isotonic,fearful,calm,5
+Logistic Regression,isotonic,fearful,disgust,1
+Logistic Regression,isotonic,fearful,fearful,19
+Logistic Regression,isotonic,fearful,happy,1
+Logistic Regression,isotonic,fearful,neutral,0
+Logistic Regression,isotonic,fearful,sad,5
+Logistic Regression,isotonic,fearful,surprised,1
+Logistic Regression,isotonic,happy,angry,1
+Logistic Regression,isotonic,happy,calm,5
+Logistic Regression,isotonic,happy,disgust,4
+Logistic Regression,isotonic,happy,fearful,13
+Logistic Regression,isotonic,happy,happy,1
+Logistic Regression,isotonic,happy,neutral,2
+Logistic Regression,isotonic,happy,sad,3
+Logistic Regression,isotonic,happy,surprised,3
+Logistic Regression,isotonic,neutral,angry,1
+Logistic Regression,isotonic,neutral,calm,9
+Logistic Regression,isotonic,neutral,disgust,0
+Logistic Regression,isotonic,neutral,fearful,0
+Logistic Regression,isotonic,neutral,happy,0
+Logistic Regression,isotonic,neutral,neutral,4
+Logistic Regression,isotonic,neutral,sad,2
+Logistic Regression,isotonic,neutral,surprised,0
+Logistic Regression,isotonic,sad,angry,0
+Logistic Regression,isotonic,sad,calm,12
+Logistic Regression,isotonic,sad,disgust,1
+Logistic Regression,isotonic,sad,fearful,10
+Logistic Regression,isotonic,sad,happy,0
+Logistic Regression,isotonic,sad,neutral,1
+Logistic Regression,isotonic,sad,sad,8
+Logistic Regression,isotonic,sad,surprised,0
+Logistic Regression,isotonic,surprised,angry,0
+Logistic Regression,isotonic,surprised,calm,4
+Logistic Regression,isotonic,surprised,disgust,4
+Logistic Regression,isotonic,surprised,fearful,15
+Logistic Regression,isotonic,surprised,happy,1
+Logistic Regression,isotonic,surprised,neutral,2
+Logistic Regression,isotonic,surprised,sad,0
+Logistic Regression,isotonic,surprised,surprised,6
+Logistic Regression,temperature,angry,angry,24
+Logistic Regression,temperature,angry,calm,1
+Logistic Regression,temperature,angry,disgust,3
+Logistic Regression,temperature,angry,fearful,1
+Logistic Regression,temperature,angry,happy,1
+Logistic Regression,temperature,angry,neutral,0
+Logistic Regression,temperature,angry,sad,1
+Logistic Regression,temperature,angry,surprised,1
+Logistic Regression,temperature,calm,angry,1
+Logistic Regression,temperature,calm,calm,22
+Logistic Regression,temperature,calm,disgust,0
+Logistic Regression,temperature,calm,fearful,6
+Logistic Regression,temperature,calm,happy,0
+Logistic Regression,temperature,calm,neutral,2
+Logistic Regression,temperature,calm,sad,1
+Logistic Regression,temperature,calm,surprised,0
+Logistic Regression,temperature,disgust,angry,5
+Logistic Regression,temperature,disgust,calm,1
+Logistic Regression,temperature,disgust,disgust,22
+Logistic Regression,temperature,disgust,fearful,0
+Logistic Regression,temperature,disgust,happy,2
+Logistic Regression,temperature,disgust,neutral,0
+Logistic Regression,temperature,disgust,sad,1
+Logistic Regression,temperature,disgust,surprised,1
+Logistic Regression,temperature,fearful,angry,2
+Logistic Regression,temperature,fearful,calm,3
+Logistic Regression,temperature,fearful,disgust,2
+Logistic Regression,temperature,fearful,fearful,15
+Logistic Regression,temperature,fearful,happy,5
+Logistic Regression,temperature,fearful,neutral,0
+Logistic Regression,temperature,fearful,sad,5
+Logistic Regression,temperature,fearful,surprised,0
+Logistic Regression,temperature,happy,angry,3
+Logistic Regression,temperature,happy,calm,0
+Logistic Regression,temperature,happy,disgust,5
+Logistic Regression,temperature,happy,fearful,8
+Logistic Regression,temperature,happy,happy,6
+Logistic Regression,temperature,happy,neutral,3
+Logistic Regression,temperature,happy,sad,5
+Logistic Regression,temperature,happy,surprised,2
+Logistic Regression,temperature,neutral,angry,2
+Logistic Regression,temperature,neutral,calm,4
+Logistic Regression,temperature,neutral,disgust,0
+Logistic Regression,temperature,neutral,fearful,0
+Logistic Regression,temperature,neutral,happy,0
+Logistic Regression,temperature,neutral,neutral,6
+Logistic Regression,temperature,neutral,sad,4
+Logistic Regression,temperature,neutral,surprised,0
+Logistic Regression,temperature,sad,angry,4
+Logistic Regression,temperature,sad,calm,8
+Logistic Regression,temperature,sad,disgust,0
+Logistic Regression,temperature,sad,fearful,5
+Logistic Regression,temperature,sad,happy,3
+Logistic Regression,temperature,sad,neutral,1
+Logistic Regression,temperature,sad,sad,11
+Logistic Regression,temperature,sad,surprised,0
+Logistic Regression,temperature,surprised,angry,0
+Logistic Regression,temperature,surprised,calm,1
+Logistic Regression,temperature,surprised,disgust,3
+Logistic Regression,temperature,surprised,fearful,12
+Logistic Regression,temperature,surprised,happy,1
+Logistic Regression,temperature,surprised,neutral,2
+Logistic Regression,temperature,surprised,sad,4
+Logistic Regression,temperature,surprised,surprised,9
+Random Forest,none,angry,angry,19
+Random Forest,none,angry,calm,1
+Random Forest,none,angry,disgust,1
+Random Forest,none,angry,fearful,3
+Random Forest,none,angry,happy,1
+Random Forest,none,angry,neutral,0
+Random Forest,none,angry,sad,1
+Random Forest,none,angry,surprised,6
+Random Forest,none,calm,angry,0
+Random Forest,none,calm,calm,23
+Random Forest,none,calm,disgust,0
+Random Forest,none,calm,fearful,1
+Random Forest,none,calm,happy,0
+Random Forest,none,calm,neutral,0
+Random Forest,none,calm,sad,7
+Random Forest,none,calm,surprised,1
+Random Forest,none,disgust,angry,7
+Random Forest,none,disgust,calm,2
+Random Forest,none,disgust,disgust,12
+Random Forest,none,disgust,fearful,1
+Random Forest,none,disgust,happy,0
+Random Forest,none,disgust,neutral,0
+Random Forest,none,disgust,sad,2
+Random Forest,none,disgust,surprised,8
+Random Forest,none,fearful,angry,2
+Random Forest,none,fearful,calm,2
+Random Forest,none,fearful,disgust,1
+Random Forest,none,fearful,fearful,17
+Random Forest,none,fearful,happy,6
+Random Forest,none,fearful,neutral,0
+Random Forest,none,fearful,sad,4
+Random Forest,none,fearful,surprised,0
+Random Forest,none,happy,angry,0
+Random Forest,none,happy,calm,0
+Random Forest,none,happy,disgust,3
+Random Forest,none,happy,fearful,13
+Random Forest,none,happy,happy,9
+Random Forest,none,happy,neutral,0
+Random Forest,none,happy,sad,5
+Random Forest,none,happy,surprised,2
+Random Forest,none,neutral,angry,0
+Random Forest,none,neutral,calm,3
+Random Forest,none,neutral,disgust,0
+Random Forest,none,neutral,fearful,0
+Random Forest,none,neutral,happy,0
+Random Forest,none,neutral,neutral,1
+Random Forest,none,neutral,sad,12
+Random Forest,none,neutral,surprised,0
+Random Forest,none,sad,angry,1
+Random Forest,none,sad,calm,7
+Random Forest,none,sad,disgust,3
+Random Forest,none,sad,fearful,6
+Random Forest,none,sad,happy,2
+Random Forest,none,sad,neutral,0
+Random Forest,none,sad,sad,12
+Random Forest,none,sad,surprised,1
+Random Forest,none,surprised,angry,2
+Random Forest,none,surprised,calm,2
+Random Forest,none,surprised,disgust,5
+Random Forest,none,surprised,fearful,9
+Random Forest,none,surprised,happy,2
+Random Forest,none,surprised,neutral,0
+Random Forest,none,surprised,sad,3
+Random Forest,none,surprised,surprised,9
+Random Forest,sigmoid,angry,angry,16
+Random Forest,sigmoid,angry,calm,1
+Random Forest,sigmoid,angry,disgust,3
+Random Forest,sigmoid,angry,fearful,5
+Random Forest,sigmoid,angry,happy,0
+Random Forest,sigmoid,angry,neutral,0
+Random Forest,sigmoid,angry,sad,1
+Random Forest,sigmoid,angry,surprised,6
+Random Forest,sigmoid,calm,angry,0
+Random Forest,sigmoid,calm,calm,23
+Random Forest,sigmoid,calm,disgust,0
+Random Forest,sigmoid,calm,fearful,1
+Random Forest,sigmoid,calm,happy,0
+Random Forest,sigmoid,calm,neutral,0
+Random Forest,sigmoid,calm,sad,7
+Random Forest,sigmoid,calm,surprised,1
+Random Forest,sigmoid,disgust,angry,5
+Random Forest,sigmoid,disgust,calm,3
+Random Forest,sigmoid,disgust,disgust,10
+Random Forest,sigmoid,disgust,fearful,2
+Random Forest,sigmoid,disgust,happy,1
+Random Forest,sigmoid,disgust,neutral,0
+Random Forest,sigmoid,disgust,sad,4
+Random Forest,sigmoid,disgust,surprised,7
+Random Forest,sigmoid,fearful,angry,2
+Random Forest,sigmoid,fearful,calm,4
+Random Forest,sigmoid,fearful,disgust,0
+Random Forest,sigmoid,fearful,fearful,20
+Random Forest,sigmoid,fearful,happy,2
+Random Forest,sigmoid,fearful,neutral,0
+Random Forest,sigmoid,fearful,sad,4
+Random Forest,sigmoid,fearful,surprised,0
+Random Forest,sigmoid,happy,angry,0
+Random Forest,sigmoid,happy,calm,0
+Random Forest,sigmoid,happy,disgust,3
+Random Forest,sigmoid,happy,fearful,15
+Random Forest,sigmoid,happy,happy,6
+Random Forest,sigmoid,happy,neutral,0
+Random Forest,sigmoid,happy,sad,6
+Random Forest,sigmoid,happy,surprised,2
+Random Forest,sigmoid,neutral,angry,0
+Random Forest,sigmoid,neutral,calm,3
+Random Forest,sigmoid,neutral,disgust,0
+Random Forest,sigmoid,neutral,fearful,0
+Random Forest,sigmoid,neutral,happy,0
+Random Forest,sigmoid,neutral,neutral,2
+Random Forest,sigmoid,neutral,sad,11
+Random Forest,sigmoid,neutral,surprised,0
+Random Forest,sigmoid,sad,angry,0
+Random Forest,sigmoid,sad,calm,8
+Random Forest,sigmoid,sad,disgust,0
+Random Forest,sigmoid,sad,fearful,9
+Random Forest,sigmoid,sad,happy,2
+Random Forest,sigmoid,sad,neutral,0
+Random Forest,sigmoid,sad,sad,12
+Random Forest,sigmoid,sad,surprised,1
+Random Forest,sigmoid,surprised,angry,1
+Random Forest,sigmoid,surprised,calm,2
+Random Forest,sigmoid,surprised,disgust,4
+Random Forest,sigmoid,surprised,fearful,10
+Random Forest,sigmoid,surprised,happy,2
+Random Forest,sigmoid,surprised,neutral,0
+Random Forest,sigmoid,surprised,sad,5
+Random Forest,sigmoid,surprised,surprised,8
+Random Forest,isotonic,angry,angry,15
+Random Forest,isotonic,angry,calm,1
+Random Forest,isotonic,angry,disgust,3
+Random Forest,isotonic,angry,fearful,6
+Random Forest,isotonic,angry,happy,1
+Random Forest,isotonic,angry,neutral,0
+Random Forest,isotonic,angry,sad,1
+Random Forest,isotonic,angry,surprised,5
+Random Forest,isotonic,calm,angry,0
+Random Forest,isotonic,calm,calm,17
+Random Forest,isotonic,calm,disgust,0
+Random Forest,isotonic,calm,fearful,1
+Random Forest,isotonic,calm,happy,0
+Random Forest,isotonic,calm,neutral,0
+Random Forest,isotonic,calm,sad,13
+Random Forest,isotonic,calm,surprised,1
+Random Forest,isotonic,disgust,angry,4
+Random Forest,isotonic,disgust,calm,3
+Random Forest,isotonic,disgust,disgust,12
+Random Forest,isotonic,disgust,fearful,3
+Random Forest,isotonic,disgust,happy,2
+Random Forest,isotonic,disgust,neutral,0
+Random Forest,isotonic,disgust,sad,2
+Random Forest,isotonic,disgust,surprised,6
+Random Forest,isotonic,fearful,angry,2
+Random Forest,isotonic,fearful,calm,4
+Random Forest,isotonic,fearful,disgust,0
+Random Forest,isotonic,fearful,fearful,20
+Random Forest,isotonic,fearful,happy,3
+Random Forest,isotonic,fearful,neutral,0
+Random Forest,isotonic,fearful,sad,3
+Random Forest,isotonic,fearful,surprised,0
+Random Forest,isotonic,happy,angry,0
+Random Forest,isotonic,happy,calm,0
+Random Forest,isotonic,happy,disgust,3
+Random Forest,isotonic,happy,fearful,16
+Random Forest,isotonic,happy,happy,7
+Random Forest,isotonic,happy,neutral,0
+Random Forest,isotonic,happy,sad,4
+Random Forest,isotonic,happy,surprised,2
+Random Forest,isotonic,neutral,angry,0
+Random Forest,isotonic,neutral,calm,6
+Random Forest,isotonic,neutral,disgust,0
+Random Forest,isotonic,neutral,fearful,0
+Random Forest,isotonic,neutral,happy,0
+Random Forest,isotonic,neutral,neutral,0
+Random Forest,isotonic,neutral,sad,10
+Random Forest,isotonic,neutral,surprised,0
+Random Forest,isotonic,sad,angry,0
+Random Forest,isotonic,sad,calm,5
+Random Forest,isotonic,sad,disgust,2
+Random Forest,isotonic,sad,fearful,9
+Random Forest,isotonic,sad,happy,2
+Random Forest,isotonic,sad,neutral,0
+Random Forest,isotonic,sad,sad,13
+Random Forest,isotonic,sad,surprised,1
+Random Forest,isotonic,surprised,angry,1
+Random Forest,isotonic,surprised,calm,5
+Random Forest,isotonic,surprised,disgust,4
+Random Forest,isotonic,surprised,fearful,9
+Random Forest,isotonic,surprised,happy,2
+Random Forest,isotonic,surprised,neutral,0
+Random Forest,isotonic,surprised,sad,2
+Random Forest,isotonic,surprised,surprised,9
+Random Forest,temperature,angry,angry,19
+Random Forest,temperature,angry,calm,1
+Random Forest,temperature,angry,disgust,1
+Random Forest,temperature,angry,fearful,3
+Random Forest,temperature,angry,happy,1
+Random Forest,temperature,angry,neutral,0
+Random Forest,temperature,angry,sad,1
+Random Forest,temperature,angry,surprised,6
+Random Forest,temperature,calm,angry,0
+Random Forest,temperature,calm,calm,23
+Random Forest,temperature,calm,disgust,0
+Random Forest,temperature,calm,fearful,1
+Random Forest,temperature,calm,happy,0
+Random Forest,temperature,calm,neutral,0
+Random Forest,temperature,calm,sad,7
+Random Forest,temperature,calm,surprised,1
+Random Forest,temperature,disgust,angry,7
+Random Forest,temperature,disgust,calm,2
+Random Forest,temperature,disgust,disgust,12
+Random Forest,temperature,disgust,fearful,1
+Random Forest,temperature,disgust,happy,0
+Random Forest,temperature,disgust,neutral,0
+Random Forest,temperature,disgust,sad,2
+Random Forest,temperature,disgust,surprised,8
+Random Forest,temperature,fearful,angry,2
+Random Forest,temperature,fearful,calm,2
+Random Forest,temperature,fearful,disgust,1
+Random Forest,temperature,fearful,fearful,17
+Random Forest,temperature,fearful,happy,6
+Random Forest,temperature,fearful,neutral,0
+Random Forest,temperature,fearful,sad,4
+Random Forest,temperature,fearful,surprised,0
+Random Forest,temperature,happy,angry,0
+Random Forest,temperature,happy,calm,0
+Random Forest,temperature,happy,disgust,3
+Random Forest,temperature,happy,fearful,13
+Random Forest,temperature,happy,happy,9
+Random Forest,temperature,happy,neutral,0
+Random Forest,temperature,happy,sad,5
+Random Forest,temperature,happy,surprised,2
+Random Forest,temperature,neutral,angry,0
+Random Forest,temperature,neutral,calm,3
+Random Forest,temperature,neutral,disgust,0
+Random Forest,temperature,neutral,fearful,0
+Random Forest,temperature,neutral,happy,0
+Random Forest,temperature,neutral,neutral,1
+Random Forest,temperature,neutral,sad,12
+Random Forest,temperature,neutral,surprised,0
+Random Forest,temperature,sad,angry,1
+Random Forest,temperature,sad,calm,7
+Random Forest,temperature,sad,disgust,3
+Random Forest,temperature,sad,fearful,6
+Random Forest,temperature,sad,happy,2
+Random Forest,temperature,sad,neutral,0
+Random Forest,temperature,sad,sad,12
+Random Forest,temperature,sad,surprised,1
+Random Forest,temperature,surprised,angry,2
+Random Forest,temperature,surprised,calm,2
+Random Forest,temperature,surprised,disgust,5
+Random Forest,temperature,surprised,fearful,9
+Random Forest,temperature,surprised,happy,2
+Random Forest,temperature,surprised,neutral,0
+Random Forest,temperature,surprised,sad,3
+Random Forest,temperature,surprised,surprised,9
+Gaussian Naive Bayes,none,angry,angry,17
+Gaussian Naive Bayes,none,angry,calm,2
+Gaussian Naive Bayes,none,angry,disgust,4
+Gaussian Naive Bayes,none,angry,fearful,4
+Gaussian Naive Bayes,none,angry,happy,2
+Gaussian Naive Bayes,none,angry,neutral,0
+Gaussian Naive Bayes,none,angry,sad,1
+Gaussian Naive Bayes,none,angry,surprised,2
+Gaussian Naive Bayes,none,calm,angry,0
+Gaussian Naive Bayes,none,calm,calm,30
+Gaussian Naive Bayes,none,calm,disgust,0
+Gaussian Naive Bayes,none,calm,fearful,0
+Gaussian Naive Bayes,none,calm,happy,0
+Gaussian Naive Bayes,none,calm,neutral,0
+Gaussian Naive Bayes,none,calm,sad,2
+Gaussian Naive Bayes,none,calm,surprised,0
+Gaussian Naive Bayes,none,disgust,angry,7
+Gaussian Naive Bayes,none,disgust,calm,6
+Gaussian Naive Bayes,none,disgust,disgust,16
+Gaussian Naive Bayes,none,disgust,fearful,0
+Gaussian Naive Bayes,none,disgust,happy,1
+Gaussian Naive Bayes,none,disgust,neutral,0
+Gaussian Naive Bayes,none,disgust,sad,2
+Gaussian Naive Bayes,none,disgust,surprised,0
+Gaussian Naive Bayes,none,fearful,angry,1
+Gaussian Naive Bayes,none,fearful,calm,3
+Gaussian Naive Bayes,none,fearful,disgust,2
+Gaussian Naive Bayes,none,fearful,fearful,12
+Gaussian Naive Bayes,none,fearful,happy,5
+Gaussian Naive Bayes,none,fearful,neutral,2
+Gaussian Naive Bayes,none,fearful,sad,6
+Gaussian Naive Bayes,none,fearful,surprised,1
+Gaussian Naive Bayes,none,happy,angry,1
+Gaussian Naive Bayes,none,happy,calm,3
+Gaussian Naive Bayes,none,happy,disgust,3
+Gaussian Naive Bayes,none,happy,fearful,8
+Gaussian Naive Bayes,none,happy,happy,4
+Gaussian Naive Bayes,none,happy,neutral,2
+Gaussian Naive Bayes,none,happy,sad,6
+Gaussian Naive Bayes,none,happy,surprised,5
+Gaussian Naive Bayes,none,neutral,angry,0
+Gaussian Naive Bayes,none,neutral,calm,5
+Gaussian Naive Bayes,none,neutral,disgust,0
+Gaussian Naive Bayes,none,neutral,fearful,0
+Gaussian Naive Bayes,none,neutral,happy,0
+Gaussian Naive Bayes,none,neutral,neutral,5
+Gaussian Naive Bayes,none,neutral,sad,6
+Gaussian Naive Bayes,none,neutral,surprised,0
+Gaussian Naive Bayes,none,sad,angry,0
+Gaussian Naive Bayes,none,sad,calm,12
+Gaussian Naive Bayes,none,sad,disgust,0
+Gaussian Naive Bayes,none,sad,fearful,1
+Gaussian Naive Bayes,none,sad,happy,6
+Gaussian Naive Bayes,none,sad,neutral,0
+Gaussian Naive Bayes,none,sad,sad,13
+Gaussian Naive Bayes,none,sad,surprised,0
+Gaussian Naive Bayes,none,surprised,angry,3
+Gaussian Naive Bayes,none,surprised,calm,7
+Gaussian Naive Bayes,none,surprised,disgust,4
+Gaussian Naive Bayes,none,surprised,fearful,3
+Gaussian Naive Bayes,none,surprised,happy,3
+Gaussian Naive Bayes,none,surprised,neutral,4
+Gaussian Naive Bayes,none,surprised,sad,1
+Gaussian Naive Bayes,none,surprised,surprised,7
+Gaussian Naive Bayes,sigmoid,angry,angry,17
+Gaussian Naive Bayes,sigmoid,angry,calm,3
+Gaussian Naive Bayes,sigmoid,angry,disgust,2
+Gaussian Naive Bayes,sigmoid,angry,fearful,4
+Gaussian Naive Bayes,sigmoid,angry,happy,2
+Gaussian Naive Bayes,sigmoid,angry,neutral,0
+Gaussian Naive Bayes,sigmoid,angry,sad,2
+Gaussian Naive Bayes,sigmoid,angry,surprised,2
+Gaussian Naive Bayes,sigmoid,calm,angry,0
+Gaussian Naive Bayes,sigmoid,calm,calm,30
+Gaussian Naive Bayes,sigmoid,calm,disgust,0
+Gaussian Naive Bayes,sigmoid,calm,fearful,0
+Gaussian Naive Bayes,sigmoid,calm,happy,0
+Gaussian Naive Bayes,sigmoid,calm,neutral,0
+Gaussian Naive Bayes,sigmoid,calm,sad,2
+Gaussian Naive Bayes,sigmoid,calm,surprised,0
+Gaussian Naive Bayes,sigmoid,disgust,angry,7
+Gaussian Naive Bayes,sigmoid,disgust,calm,7
+Gaussian Naive Bayes,sigmoid,disgust,disgust,16
+Gaussian Naive Bayes,sigmoid,disgust,fearful,0
+Gaussian Naive Bayes,sigmoid,disgust,happy,1
+Gaussian Naive Bayes,sigmoid,disgust,neutral,0
+Gaussian Naive Bayes,sigmoid,disgust,sad,1
+Gaussian Naive Bayes,sigmoid,disgust,surprised,0
+Gaussian Naive Bayes,sigmoid,fearful,angry,1
+Gaussian Naive Bayes,sigmoid,fearful,calm,4
+Gaussian Naive Bayes,sigmoid,fearful,disgust,2
+Gaussian Naive Bayes,sigmoid,fearful,fearful,12
+Gaussian Naive Bayes,sigmoid,fearful,happy,5
+Gaussian Naive Bayes,sigmoid,fearful,neutral,0
+Gaussian Naive Bayes,sigmoid,fearful,sad,7
+Gaussian Naive Bayes,sigmoid,fearful,surprised,1
+Gaussian Naive Bayes,sigmoid,happy,angry,1
+Gaussian Naive Bayes,sigmoid,happy,calm,3
+Gaussian Naive Bayes,sigmoid,happy,disgust,3
+Gaussian Naive Bayes,sigmoid,happy,fearful,8
+Gaussian Naive Bayes,sigmoid,happy,happy,4
+Gaussian Naive Bayes,sigmoid,happy,neutral,1
+Gaussian Naive Bayes,sigmoid,happy,sad,7
+Gaussian Naive Bayes,sigmoid,happy,surprised,5
+Gaussian Naive Bayes,sigmoid,neutral,angry,0
+Gaussian Naive Bayes,sigmoid,neutral,calm,7
+Gaussian Naive Bayes,sigmoid,neutral,disgust,0
+Gaussian Naive Bayes,sigmoid,neutral,fearful,0
+Gaussian Naive Bayes,sigmoid,neutral,happy,0
+Gaussian Naive Bayes,sigmoid,neutral,neutral,2
+Gaussian Naive Bayes,sigmoid,neutral,sad,7
+Gaussian Naive Bayes,sigmoid,neutral,surprised,0
+Gaussian Naive Bayes,sigmoid,sad,angry,0
+Gaussian Naive Bayes,sigmoid,sad,calm,13
+Gaussian Naive Bayes,sigmoid,sad,disgust,0
+Gaussian Naive Bayes,sigmoid,sad,fearful,1
+Gaussian Naive Bayes,sigmoid,sad,happy,6
+Gaussian Naive Bayes,sigmoid,sad,neutral,0
+Gaussian Naive Bayes,sigmoid,sad,sad,12
+Gaussian Naive Bayes,sigmoid,sad,surprised,0
+Gaussian Naive Bayes,sigmoid,surprised,angry,3
+Gaussian Naive Bayes,sigmoid,surprised,calm,8
+Gaussian Naive Bayes,sigmoid,surprised,disgust,4
+Gaussian Naive Bayes,sigmoid,surprised,fearful,4
+Gaussian Naive Bayes,sigmoid,surprised,happy,3
+Gaussian Naive Bayes,sigmoid,surprised,neutral,1
+Gaussian Naive Bayes,sigmoid,surprised,sad,2
+Gaussian Naive Bayes,sigmoid,surprised,surprised,7
+Gaussian Naive Bayes,isotonic,angry,angry,13
+Gaussian Naive Bayes,isotonic,angry,calm,5
+Gaussian Naive Bayes,isotonic,angry,disgust,1
+Gaussian Naive Bayes,isotonic,angry,fearful,5
+Gaussian Naive Bayes,isotonic,angry,happy,4
+Gaussian Naive Bayes,isotonic,angry,neutral,0
+Gaussian Naive Bayes,isotonic,angry,sad,0
+Gaussian Naive Bayes,isotonic,angry,surprised,4
+Gaussian Naive Bayes,isotonic,calm,angry,0
+Gaussian Naive Bayes,isotonic,calm,calm,31
+Gaussian Naive Bayes,isotonic,calm,disgust,0
+Gaussian Naive Bayes,isotonic,calm,fearful,0
+Gaussian Naive Bayes,isotonic,calm,happy,0
+Gaussian Naive Bayes,isotonic,calm,neutral,0
+Gaussian Naive Bayes,isotonic,calm,sad,1
+Gaussian Naive Bayes,isotonic,calm,surprised,0
+Gaussian Naive Bayes,isotonic,disgust,angry,4
+Gaussian Naive Bayes,isotonic,disgust,calm,11
+Gaussian Naive Bayes,isotonic,disgust,disgust,11
+Gaussian Naive Bayes,isotonic,disgust,fearful,1
+Gaussian Naive Bayes,isotonic,disgust,happy,3
+Gaussian Naive Bayes,isotonic,disgust,neutral,0
+Gaussian Naive Bayes,isotonic,disgust,sad,0
+Gaussian Naive Bayes,isotonic,disgust,surprised,2
+Gaussian Naive Bayes,isotonic,fearful,angry,1
+Gaussian Naive Bayes,isotonic,fearful,calm,6
+Gaussian Naive Bayes,isotonic,fearful,disgust,2
+Gaussian Naive Bayes,isotonic,fearful,fearful,15
+Gaussian Naive Bayes,isotonic,fearful,happy,3
+Gaussian Naive Bayes,isotonic,fearful,neutral,0
+Gaussian Naive Bayes,isotonic,fearful,sad,5
+Gaussian Naive Bayes,isotonic,fearful,surprised,0
+Gaussian Naive Bayes,isotonic,happy,angry,1
+Gaussian Naive Bayes,isotonic,happy,calm,6
+Gaussian Naive Bayes,isotonic,happy,disgust,3
+Gaussian Naive Bayes,isotonic,happy,fearful,9
+Gaussian Naive Bayes,isotonic,happy,happy,4
+Gaussian Naive Bayes,isotonic,happy,neutral,0
+Gaussian Naive Bayes,isotonic,happy,sad,5
+Gaussian Naive Bayes,isotonic,happy,surprised,4
+Gaussian Naive Bayes,isotonic,neutral,angry,0
+Gaussian Naive Bayes,isotonic,neutral,calm,11
+Gaussian Naive Bayes,isotonic,neutral,disgust,0
+Gaussian Naive Bayes,isotonic,neutral,fearful,0
+Gaussian Naive Bayes,isotonic,neutral,happy,0
+Gaussian Naive Bayes,isotonic,neutral,neutral,0
+Gaussian Naive Bayes,isotonic,neutral,sad,5
+Gaussian Naive Bayes,isotonic,neutral,surprised,0
+Gaussian Naive Bayes,isotonic,sad,angry,0
+Gaussian Naive Bayes,isotonic,sad,calm,16
+Gaussian Naive Bayes,isotonic,sad,disgust,0
+Gaussian Naive Bayes,isotonic,sad,fearful,3
+Gaussian Naive Bayes,isotonic,sad,happy,4
+Gaussian Naive Bayes,isotonic,sad,neutral,0
+Gaussian Naive Bayes,isotonic,sad,sad,9
+Gaussian Naive Bayes,isotonic,sad,surprised,0
+Gaussian Naive Bayes,isotonic,surprised,angry,2
+Gaussian Naive Bayes,isotonic,surprised,calm,14
+Gaussian Naive Bayes,isotonic,surprised,disgust,2
+Gaussian Naive Bayes,isotonic,surprised,fearful,4
+Gaussian Naive Bayes,isotonic,surprised,happy,4
+Gaussian Naive Bayes,isotonic,surprised,neutral,0
+Gaussian Naive Bayes,isotonic,surprised,sad,0
+Gaussian Naive Bayes,isotonic,surprised,surprised,6
+Gaussian Naive Bayes,temperature,angry,angry,17
+Gaussian Naive Bayes,temperature,angry,calm,2
+Gaussian Naive Bayes,temperature,angry,disgust,4
+Gaussian Naive Bayes,temperature,angry,fearful,4
+Gaussian Naive Bayes,temperature,angry,happy,2
+Gaussian Naive Bayes,temperature,angry,neutral,0
+Gaussian Naive Bayes,temperature,angry,sad,1
+Gaussian Naive Bayes,temperature,angry,surprised,2
+Gaussian Naive Bayes,temperature,calm,angry,0
+Gaussian Naive Bayes,temperature,calm,calm,30
+Gaussian Naive Bayes,temperature,calm,disgust,0
+Gaussian Naive Bayes,temperature,calm,fearful,0
+Gaussian Naive Bayes,temperature,calm,happy,0
+Gaussian Naive Bayes,temperature,calm,neutral,0
+Gaussian Naive Bayes,temperature,calm,sad,2
+Gaussian Naive Bayes,temperature,calm,surprised,0
+Gaussian Naive Bayes,temperature,disgust,angry,7
+Gaussian Naive Bayes,temperature,disgust,calm,6
+Gaussian Naive Bayes,temperature,disgust,disgust,16
+Gaussian Naive Bayes,temperature,disgust,fearful,0
+Gaussian Naive Bayes,temperature,disgust,happy,1
+Gaussian Naive Bayes,temperature,disgust,neutral,0
+Gaussian Naive Bayes,temperature,disgust,sad,2
+Gaussian Naive Bayes,temperature,disgust,surprised,0
+Gaussian Naive Bayes,temperature,fearful,angry,1
+Gaussian Naive Bayes,temperature,fearful,calm,3
+Gaussian Naive Bayes,temperature,fearful,disgust,2
+Gaussian Naive Bayes,temperature,fearful,fearful,12
+Gaussian Naive Bayes,temperature,fearful,happy,5
+Gaussian Naive Bayes,temperature,fearful,neutral,2
+Gaussian Naive Bayes,temperature,fearful,sad,6
+Gaussian Naive Bayes,temperature,fearful,surprised,1
+Gaussian Naive Bayes,temperature,happy,angry,1
+Gaussian Naive Bayes,temperature,happy,calm,3
+Gaussian Naive Bayes,temperature,happy,disgust,3
+Gaussian Naive Bayes,temperature,happy,fearful,8
+Gaussian Naive Bayes,temperature,happy,happy,4
+Gaussian Naive Bayes,temperature,happy,neutral,2
+Gaussian Naive Bayes,temperature,happy,sad,6
+Gaussian Naive Bayes,temperature,happy,surprised,5
+Gaussian Naive Bayes,temperature,neutral,angry,0
+Gaussian Naive Bayes,temperature,neutral,calm,5
+Gaussian Naive Bayes,temperature,neutral,disgust,0
+Gaussian Naive Bayes,temperature,neutral,fearful,0
+Gaussian Naive Bayes,temperature,neutral,happy,0
+Gaussian Naive Bayes,temperature,neutral,neutral,5
+Gaussian Naive Bayes,temperature,neutral,sad,6
+Gaussian Naive Bayes,temperature,neutral,surprised,0
+Gaussian Naive Bayes,temperature,sad,angry,0
+Gaussian Naive Bayes,temperature,sad,calm,12
+Gaussian Naive Bayes,temperature,sad,disgust,0
+Gaussian Naive Bayes,temperature,sad,fearful,1
+Gaussian Naive Bayes,temperature,sad,happy,6
+Gaussian Naive Bayes,temperature,sad,neutral,0
+Gaussian Naive Bayes,temperature,sad,sad,13
+Gaussian Naive Bayes,temperature,sad,surprised,0
+Gaussian Naive Bayes,temperature,surprised,angry,3
+Gaussian Naive Bayes,temperature,surprised,calm,7
+Gaussian Naive Bayes,temperature,surprised,disgust,4
+Gaussian Naive Bayes,temperature,surprised,fearful,3
+Gaussian Naive Bayes,temperature,surprised,happy,3
+Gaussian Naive Bayes,temperature,surprised,neutral,4
+Gaussian Naive Bayes,temperature,surprised,sad,1
+Gaussian Naive Bayes,temperature,surprised,surprised,7
