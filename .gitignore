@@ -8,3 +8,6 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+
+# Обученные модели создаются автоматически командой ravdess-calibrate.
+reports/models/

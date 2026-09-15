@@ -1,0 +1,97 @@
+model,method,emotion,brier_one_vs_rest
+Logistic Regression,none,angry,0.08294548046706234
+Logistic Regression,none,calm,0.08591924302108543
+Logistic Regression,none,disgust,0.06129385285735291
+Logistic Regression,none,fearful,0.15415703887320295
+Logistic Regression,none,happy,0.1312773676978569
+Logistic Regression,none,neutral,0.05263057894742662
+Logistic Regression,none,sad,0.12245083849814765
+Logistic Regression,none,surprised,0.09554908955389178
+Logistic Regression,sigmoid,angry,0.07835957590521987
+Logistic Regression,sigmoid,calm,0.08765852140868034
+Logistic Regression,sigmoid,disgust,0.06650207044058261
+Logistic Regression,sigmoid,fearful,0.12011808373013207
+Logistic Regression,sigmoid,happy,0.11129826959894347
+Logistic Regression,sigmoid,neutral,0.05405274891721272
+Logistic Regression,sigmoid,sad,0.10270805069975371
+Logistic Regression,sigmoid,surprised,0.09996225918416014
+Logistic Regression,isotonic,angry,0.07840990316267621
+Logistic Regression,isotonic,calm,0.09723625798055682
+Logistic Regression,isotonic,disgust,0.06977263562288857
+Logistic Regression,isotonic,fearful,0.1304773415002363
+Logistic Regression,isotonic,happy,0.11276583314208093
+Logistic Regression,isotonic,neutral,0.05669200976955866
+Logistic Regression,isotonic,sad,0.10631231142104942
+Logistic Regression,isotonic,surprised,0.09871137540378057
+Logistic Regression,temperature,angry,0.068922900632118
+Logistic Regression,temperature,calm,0.07773196376488722
+Logistic Regression,temperature,disgust,0.06522846333526668
+Logistic Regression,temperature,fearful,0.11281745729443689
+Logistic Regression,temperature,happy,0.10866973576695206
+Logistic Regression,temperature,neutral,0.05128475512483545
+Logistic Regression,temperature,sad,0.10366523565760324
+Logistic Regression,temperature,surprised,0.0946506958257213
+Random Forest,none,angry,0.0735032482658558
+Random Forest,none,calm,0.07342633806085196
+Random Forest,none,disgust,0.09265254987473917
+Random Forest,none,fearful,0.09699708770866308
+Random Forest,none,happy,0.1037969547745714
+Random Forest,none,neutral,0.05365446455644186
+Random Forest,none,sad,0.10462331273742884
+Random Forest,none,surprised,0.1043935935478433
+Random Forest,sigmoid,angry,0.06726674490581597
+Random Forest,sigmoid,calm,0.06926689184266228
+Random Forest,sigmoid,disgust,0.08649787048057794
+Random Forest,sigmoid,fearful,0.10739671820836628
+Random Forest,sigmoid,happy,0.10241976783259217
+Random Forest,sigmoid,neutral,0.0532862111251052
+Random Forest,sigmoid,sad,0.1055075650762342
+Random Forest,sigmoid,surprised,0.10851020578532049
+Random Forest,isotonic,angry,0.06996268706297482
+Random Forest,isotonic,calm,0.07629541582948471
+Random Forest,isotonic,disgust,0.0849296079102861
+Random Forest,isotonic,fearful,0.12079245249418175
+Random Forest,isotonic,happy,0.1039035158779166
+Random Forest,isotonic,neutral,0.05434071332009626
+Random Forest,isotonic,sad,0.11815360971107448
+Random Forest,isotonic,surprised,0.11717803285993174
+Random Forest,temperature,angry,0.06343313578994174
+Random Forest,temperature,calm,0.06244191124799011
+Random Forest,temperature,disgust,0.08319851078290075
+Random Forest,temperature,fearful,0.10672077215860178
+Random Forest,temperature,happy,0.10276236811228154
+Random Forest,temperature,neutral,0.053983776800918946
+Random Forest,temperature,sad,0.10466433367507075
+Random Forest,temperature,surprised,0.10591638975714739
+Gaussian Naive Bayes,none,angry,0.09695731959561929
+Gaussian Naive Bayes,none,calm,0.12898087931082874
+Gaussian Naive Bayes,none,disgust,0.09618447960903559
+Gaussian Naive Bayes,none,fearful,0.1307294376526063
+Gaussian Naive Bayes,none,happy,0.16939313989144136
+Gaussian Naive Bayes,none,neutral,0.05682004684344345
+Gaussian Naive Bayes,none,sad,0.14429540580892206
+Gaussian Naive Bayes,none,surprised,0.12407093935982742
+Gaussian Naive Bayes,sigmoid,angry,0.08772439397425129
+Gaussian Naive Bayes,sigmoid,calm,0.08594938581523835
+Gaussian Naive Bayes,sigmoid,disgust,0.09174801012421813
+Gaussian Naive Bayes,sigmoid,fearful,0.10156707975769483
+Gaussian Naive Bayes,sigmoid,happy,0.11785530527866918
+Gaussian Naive Bayes,sigmoid,neutral,0.05765215942243866
+Gaussian Naive Bayes,sigmoid,sad,0.10959087996607994
+Gaussian Naive Bayes,sigmoid,surprised,0.10711338716694785
+Gaussian Naive Bayes,isotonic,angry,0.0845159716507382
+Gaussian Naive Bayes,isotonic,calm,0.10018145592263945
+Gaussian Naive Bayes,isotonic,disgust,0.09035676662584079
+Gaussian Naive Bayes,isotonic,fearful,0.1101260846749502
+Gaussian Naive Bayes,isotonic,happy,0.12258057430159651
+Gaussian Naive Bayes,isotonic,neutral,0.054798802214358504
+Gaussian Naive Bayes,isotonic,sad,0.11590075872225032
+Gaussian Naive Bayes,isotonic,surprised,0.10693903403713323
+Gaussian Naive Bayes,temperature,angry,0.08202607849213939
+Gaussian Naive Bayes,temperature,calm,0.07035732059085695
+Gaussian Naive Bayes,temperature,disgust,0.08761709980969745
+Gaussian Naive Bayes,temperature,fearful,0.10141712798002359
+Gaussian Naive Bayes,temperature,happy,0.12114429960705027
+Gaussian Naive Bayes,temperature,neutral,0.05536763266258446
+Gaussian Naive Bayes,temperature,sad,0.11290161721951933
+Gaussian Naive Bayes,temperature,surprised,0.10123356020049916

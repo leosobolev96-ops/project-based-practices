@@ -2,3 +2,7 @@ model,accuracy,macro_f1,log_loss
 Logistic Regression,0.4417,0.4353,1.9302
 Random Forest,0.4625,0.4442,1.5287
 Gaussian Naive Bayes,0.4167,0.4139,3.5186
+model,accuracy,macro_f1,log_loss,brier_score,ece
+Logistic Regression,0.4417,0.4353,1.9314,0.81,0.2572
+Random Forest,0.4958,0.4772,1.5245,0.7063,0.1955
+Gaussian Naive Bayes,0.4167,0.4139,3.518,0.9266,0.3882
