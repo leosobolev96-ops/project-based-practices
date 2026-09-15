@@ -9,10 +9,6 @@ dependencies = [
     "numpy>=2.4.6",
     "pandas>=3.0.5",
     "scikit-learn>=1.9.0",
-    "joblib>=1.4.0",
-    "matplotlib>=3.8.0",
-    "ipykernel>=6.0.0",
-    "jupyterlab>=4.0.0",
 ]
 
 [project.scripts]
@@ -31,6 +27,8 @@ ravdess-subgroups = "emotion_calibration.subgroup_analysis:main"
 ravdess-split-robustness = "emotion_calibration.actor_split_robustness:main"
 ravdess-verify-dataset = "emotion_calibration.verify_dataset:main"
 ravdess-log-experiment = "emotion_calibration.log_experiment:main"
+ravdess-train-final = "emotion_calibration.train_final_model:main"
+ravdess-predict = "emotion_calibration.predict_single:main"
 
 
 [build-system]
@@ -45,6 +43,3 @@ dev = [
     "jupyter>=1.1.1",
     "matplotlib>=3.11.1",
 ]
-[tool.pytest.ini_options]
-pythonpath = ["src"]
-testpaths = ["tests"]
