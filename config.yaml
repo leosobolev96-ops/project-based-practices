@@ -1,0 +1,39 @@
+dataset:
+  zip_path: data/raw/Audio_Speech_Actors_01-24.zip
+  sample_rate: 16000
+  version: RAVDESS-speech-v1
+  sha256: 5d208e01632cc3e5242106fa2af3273e6dc5239fb8143131979ac74c4aa40657
+actors:
+  train:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  calibration:
+  - 21
+  - 22
+  - 23
+  - 24
+  test:
+  - 17
+  - 18
+  - 19
+  - 20
+model:
+  n_estimators: 300
+  random_state: 42
+  class_weight: balanced
+calibration:
+  method: sigmoid

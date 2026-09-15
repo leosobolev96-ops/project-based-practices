@@ -16,6 +16,18 @@ ravdess-convert = "emotion_calibration.convert_ravdess:main"
 ravdess-features = "emotion_calibration.extract_features:main"
 ravdess-classify = "emotion_calibration.classify:main"
 ravdess-calibrate = "emotion_calibration.calibrate:main"
+ravdess-calibrate-compare = "emotion_calibration.calibrate_models_comparison:main"
+ravdess-features-extended = "emotion_calibration.extract_features_extended:main"
+ravdess-ablation = "emotion_calibration.ablation_features:main"
+ravdess-augment = "emotion_calibration.augment_train:main"
+ravdess-train-augmented = "emotion_calibration.train_with_augmentation:main"
+ravdess-stability = "emotion_calibration.calibration_stability:main"
+ravdess-emotion-analysis = "emotion_calibration.emotion_level_analysis:main"
+ravdess-subgroups = "emotion_calibration.subgroup_analysis:main"
+ravdess-split-robustness = "emotion_calibration.actor_split_robustness:main"
+ravdess-verify-dataset = "emotion_calibration.verify_dataset:main"
+ravdess-log-experiment = "emotion_calibration.log_experiment:main"
+
 
 [build-system]
 requires = ["hatchling"]
